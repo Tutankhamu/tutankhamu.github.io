@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## 个人简介
 
-You can use the [editor on GitHub](https://github.com/Tutankhamu/tutankhamu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+姓名：刘俊                   性别：男
+出生年月：2002.04.11         专业：经济学
+政治面貌：共青团员            电子邮箱:1103503043@qq.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 技能总结
 
-### Markdown
+英语四级     摄影
+制作海报     撰写文章
+剪辑视频     
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 兴趣爱好
 
-```markdown
-Syntax highlighted code block
+绘画        游戏
+读书        音乐
+看电影       
 
-# Header 1
-## Header 2
-### Header 3
+### 教育背景
 
-- Bulleted
-- List
+大学本科在读
 
-1. Numbered
-2. List
+### 主修课程
 
-**Bold** and _Italic_ and `Code` text
+宏观经济学   微观经济学   微积分   概率论
 
-[Link](url) and ![Image](src)
-```
+### 获奖情况
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+暂无
 
-### Jekyll Themes
+### 自我评价
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tutankhamu/tutankhamu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+农历二月二十九的生日，应是四年一次，但我是否会如生日一样成长缓慢。信息的洪流奔涌入眼帘，打开了我的思维，而我却仍然反反复复地遗忘我所知的一切。我善于沉浮在闲暇时间里，一遍遍地审视着自己和他人，一遍遍地思考，自我批驳，打碎自己的认知，然后重塑，但是过于沉浸仿佛是我在无形中架构了一个小世界，我出不去，但也没人进得来。凡事总有利弊吧，我也因此从不畏惧所谓的孤独，恰印证了叔本华的那句“内心丰富的人不需要任何外在的东西，但需要与之相反的宁静的闲暇”。自我攻讦使我常常处于“今日之我与昨日之我战”的矛盾状态。希望自己不会陷入虚无主义的泥潭，对未来的航程仍然抱有希望，有人还在等我，不想辜负他回首时的期望，慢慢向前走吧。
